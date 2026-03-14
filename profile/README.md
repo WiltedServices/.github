@@ -1,12 +1,15 @@
-## Hi there 👋
+<p align="center">
+<kbd>
+<img width="150px" src="https://avatars.githubusercontent.com/u/253292545?s=200&v=4">
+</kbd>
+</p>
 
-<!--
+<h1 align="center">Artemis Foundation</h1>
 
-**Here are some ideas to get you started:**
+## About
+Artemis Foundation is a cybersecurity group run by teens who are passionate about technology, privacy, and online security. We primarily specialize in web filter technoligies, especially in k-12 enviornments. We explore areas like web porting, fullstack development, and CROS (chromeos) exploiting. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Our services/projects
+
+coming soon boiiii123 :sob:
+what the FUCK is this dude
